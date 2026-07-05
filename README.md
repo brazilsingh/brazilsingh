@@ -28,19 +28,37 @@
 
 ---
 
-## 🌍 About Me
 
-I'm a mapper, GIS enthusiast, and web developer based in **Dhaka, Bangladesh**, working at the intersection of open data, disaster preparedness, and community education. I currently serve as a **Director of the OpenStreetMap Foundation (OSMF)** on the Communications team, and as an **Open Mapping Guru** with HOT's Open Mapping Hub for the Asia-Pacific region.
+# Brazil Singh 
+Brazil Singh is a Director at the OpenStreetMap Foundation (OSMF), Open Mapping Guru at Open Mapping Hub Asia Pacific, Voting Member of Humanitarian OpenStreetMap team (HOT) and WordPress web developer based in Dhaka, Bangladesh.
 
-My work focuses on educating communities on GIS tools, building high-impact maps for disaster response, and mentoring the next generation of mappers through YouthMappers. I'm also applying OpenStreetMap data to real-world logistics — currently helping a grocery delivery company optimize its routing using OSM.
+## Short Bio
+Brazil Singh is a Bangladeshi geospatial technologist, Director of the OpenStreetMap Foundation (OSMF), and  web developer. He serves as an Open Mapping Guru at the Open Mapping Hub Asia Pacific, Voting Member of Humanitarian OpenStreetMap team (HOT) and as a Regional Ambassador for YouthMappers, focusing on GIS education, disaster-response mapping, and open data advocacy.
 
-- 🗺️ **Director, Communications & LCCWG Member** — OpenStreetMap Foundation (OSMF)
-- 🌐 **Open Mapping Guru** — HOT Open Mapping Hub, Asia Pacific
-- 🎓 **Regional Ambassador** — YouthMappers
-- 🗳️ **Voting Member** — Humanitarian OpenStreetMap Team (HOT)
-- 💻 **WordPress Web Developer** & mapping analytics dashboard builder
-- 🎓 Studying B.Sc. in Computer Science & Engineering — Eastern University, Bangladesh
-- 📍 Based in Dhaka, Bangladesh
+## Full Biography
+**Brazil Singh** is a Bangladeshi mapper, geospatial technologist, and web developer recognized for his leadership within the global OpenStreetMap community. He currently serves as a **Director of the OpenStreetMap Foundation (OSMF)**, Brazil Singh is also an **Open Mapping Guru** at the **Humanitarian OpenStreetMap Team's (HOT) Open Mapping Hub for Asia-Pacific**, a **Regional Ambassador for YouthMappers**, and a **Voting Member of HOT**.
+
+Based in Dhaka, Bangladesh, Brazil Singh combines his technical background in **web development** with a focus on **open geospatial data**, **GIS education**, and **disaster preparedness mapping**. As a **WordPress web developer**, he has built websites, mapping analytics dashboards, and points-of-interest filtering tools that support open mapping initiatives across South and Southeast Asia.
+
+### Education
+Brazil Singh was born on 25 May 2002 in Magura, Khulna Division, Bangladesh. He is currently pursuing a **Bachelor of Science in Computer Science and Engineering at Eastern University, Bangladesh**, where he actively bridges academic study with real-world mapping and web development projects.
+
+### Career and Contributions to Open Mapping
+Since becoming active in the OpenStreetMap community in 2022, Brazil Singh has trained hundreds of volunteers in tools such as the **iD Editor, JOSM, MapRoulette, Mapillary, and Overpass**, and has led community skillshares on web development and digital communications for HOT's Community and Tech & Innovation Working Groups. He has collaborated with institutions including **Eastern University Bangladesh, Eastern University Sri Lanka, and Rajshahi University**, and has trained **World Vision Bangladesh** volunteers in field data collection using Mapillary.
+
+His applied mapping work includes the **"Mapping for Climate Ready Cities – Dhaka"** project with HOT, he also work helping a grocery delivery company in Bangladesh optimize routing and logistics using OpenStreetMap data, demonstrating the real-world commercial value of open geospatial data. 
+
+### Recognition
+Brazil Singh's contributions to open mapping have been recognized through multiple awards, including:
+- YouthMappers Leadership Fellow (2024)
+- YouthMappers Community Outreach Award (2023)
+- OSM Community Champion, State of the Map Asia, Thailand (2023)
+- Open Mapping Guru Fellowship, HOT Open Mapping Hub Asia-Pacific
+
+He has also been recognized as the **Top 1 Mapper in Bangladesh** and was featured in a **Climatelinks** feature story on YouthMappers' climate resilience work.
+
+### Online Presence
+Brazil Singh is active across professional and mapping-community platforms, including the **OpenStreetMap Wiki, OSM Forum, GitHub, LinkedIn, Mastodon, and Instagram**, where he shares updates on open mapping, web development, and community-building initiatives across Asia-Pacific.
 
 ---
 
