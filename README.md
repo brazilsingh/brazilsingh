@@ -17,6 +17,24 @@
   <img src="assets/terminal.svg" width="100%" alt="whoami: Brazil Singh. Focus: agents, MCP servers, prompts, skills, automations, growth." />
 </p>
 
+<h3 align="center">Featured: Motion Designer Portfolio Template</h3>
+
+<p align="center">
+  <a href="https://github.com/brazilsingh/motion-designer-website-portfolio-demo">
+    <img src="https://raw.githubusercontent.com/brazilsingh/motion-designer-website-portfolio-demo/main/assets/preview.gif" width="100%" alt="Animated preview of the Motion Designer Portfolio Template: 3D hero, draggable ID card, video work and hover reveal photo" />
+  </a>
+</p>
+
+<p align="center">
+  A free, animated portfolio website for video editors and motion designers. Make it yours with any AI via <code>/clone</code>.
+</p>
+
+<p align="center">
+  <a href="https://brazilsingh.github.io/motion-designer-website-portfolio-demo/"><img src="https://img.shields.io/badge/Live%20demo-0B1120?style=for-the-badge&logo=githubpages&logoColor=22D3EE" alt="Live demo" /></a>
+  <a href="https://github.com/brazilsingh/motion-designer-website-portfolio-demo/generate"><img src="https://img.shields.io/badge/Use%20this%20template-0B1120?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Use this template" /></a>
+  <a href="https://github.com/brazilsingh/motion-designer-website-portfolio-demo/stargazers"><img src="https://img.shields.io/github/stars/brazilsingh/motion-designer-website-portfolio-demo?style=for-the-badge&logo=github&logoColor=22C55E&label=Stars&color=0B1120&labelColor=0B1120" alt="Stars" /></a>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,tailwind,wordpress,docker,git,vscode,figma&theme=dark&perline=12" alt="Python, TypeScript, JavaScript, Node.js, React, Next.js, Tailwind, WordPress, Docker, Git, VS Code, Figma" />
 </p>
