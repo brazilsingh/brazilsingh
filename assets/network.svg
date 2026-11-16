@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-labelledby="t">
+  <title id="t">What I build: AI agents, MCP, prompts, skills, automation, marketing, SAI, code and more</title>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="480" rx="22"/></clipPath>
+    <radialGradient id="hub" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#67E8F9"/><stop offset=".55" stop-color="#7C3AED"/><stop offset="1" stop-color="#1E1B4B"/></radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#94A3B8"/></pattern>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace; font-size: 18px; fill: #E2E8F0; }
+    .e { stroke: #1E293B; stroke-width: 1.5; }
+    .p { stroke-width: 3; stroke-linecap: round; stroke-dasharray: 8 92; stroke-dashoffset: 100; filter: url(#glow); animation: flow 3.6s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: 0; } }
+    .n { animation: float 6s ease-in-out infinite; }
+    @keyframes float { 50% { transform: translateY(-7px); } }
+    .ring { animation: spin 24s linear infinite; transform-origin: 600px 240px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .wave { animation: wave 3s ease-out infinite; transform-origin: 600px 240px; }
+    .w2 { animation-delay: 1.5s; }
+    @keyframes wave { from { transform: scale(1); opacity: .6; } to { transform: scale(2.1); opacity: 0; } }
+    .orb { animation: orb 14s ease-in-out infinite alternate; }
+    @keyframes orb { to { transform: translate(120px, -40px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .p { stroke-dashoffset: 0; stroke-dasharray: none; stroke-opacity: .35; } .wave { opacity: 0; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="480" fill="#070B14"/>
+    <circle class="orb" cx="560" cy="250" r="200" fill="#7C3AED" opacity=".22" filter="url(#blur)"/>
+    <rect width="1200" height="480" fill="url(#dots)" opacity=".08"/>
+    <text x="40" y="48" style="font-size:15px;fill:#64748B;letter-spacing:2px">// WHAT I BUILD</text>
+    <ellipse cx="600" cy="240" rx="430" ry="150" fill="none" stroke="#1E293B" stroke-dasharray="2 8"/>
+    <line x1="600" y1="240" x2="600" y2="90" class="e"/><line x1="600" y1="240" x2="600" y2="90" pathLength="100" class="p" stroke="#22D3EE" style="animation-delay:0.00s"/><line x1="600" y1="240" x2="876" y2="125" class="e"/><line x1="600" y1="240" x2="876" y2="125" pathLength="100" class="p" stroke="#A78BFA" style="animation-delay:0.45s"/><line x1="600" y1="240" x2="1023" y2="214" class="e"/><line x1="600" y1="240" x2="1023" y2="214" pathLength="100" class="p" stroke="#22C55E" style="animation-delay:0.90s"/><line x1="600" y1="240" x2="972" y2="315" class="e"/><line x1="600" y1="240" x2="972" y2="315" pathLength="100" class="p" stroke="#22D3EE" style="animation-delay:1.35s"/><line x1="600" y1="240" x2="747" y2="381" class="e"/><line x1="600" y1="240" x2="747" y2="381" pathLength="100" class="p" stroke="#A78BFA" style="animation-delay:1.80s"/><line x1="600" y1="240" x2="453" y2="381" class="e"/><line x1="600" y1="240" x2="453" y2="381" pathLength="100" class="p" stroke="#22C55E" style="animation-delay:2.25s"/><line x1="600" y1="240" x2="228" y2="315" class="e"/><line x1="600" y1="240" x2="228" y2="315" pathLength="100" class="p" stroke="#22D3EE" style="animation-delay:2.70s"/><line x1="600" y1="240" x2="177" y2="214" class="e"/><line x1="600" y1="240" x2="177" y2="214" pathLength="100" class="p" stroke="#A78BFA" style="animation-delay:3.15s"/><line x1="600" y1="240" x2="324" y2="125" class="e"/><line x1="600" y1="240" x2="324" y2="125" pathLength="100" class="p" stroke="#64748B" style="animation-delay:3.60s"/>
+    <circle class="wave" cx="600" cy="240" r="58" fill="none" stroke="#22D3EE" stroke-width="2"/>
+    <circle class="wave w2" cx="600" cy="240" r="58" fill="none" stroke="#A78BFA" stroke-width="2"/>
+    <circle class="ring" cx="600" cy="240" r="80" fill="none" stroke="#22D3EE" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="4 10 30 10"/>
+    <circle cx="600" cy="240" r="58" fill="url(#hub)" filter="url(#glow)"/>
+    <text x="600" y="254" text-anchor="middle" style="font-family:'Segoe UI',-apple-system,Inter,Helvetica,Arial,sans-serif;font-size:42px;font-weight:800;fill:#fff">AI</text>
+    <g class="n" style="animation-delay:0.0s"><rect x="540" y="68" width="120" height="44" rx="22" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".75"/><circle cx="560" cy="90" r="4" fill="#22D3EE"/><text x="608" y="96" text-anchor="middle">Agents</text></g><g class="n" style="animation-delay:-0.7s"><rect x="834" y="103" width="84" height="44" rx="22" fill="#0F172A" stroke="#A78BFA" stroke-opacity=".75"/><circle cx="854" cy="125" r="4" fill="#A78BFA"/><text x="884" y="131" text-anchor="middle">MCP</text></g><g class="n" style="animation-delay:-1.4s"><rect x="957" y="192" width="132" height="44" rx="22" fill="#0F172A" stroke="#22C55E" stroke-opacity=".75"/><circle cx="977" cy="214" r="4" fill="#22C55E"/><text x="1031" y="220" text-anchor="middle">Prompts</text></g><g class="n" style="animation-delay:-2.1s"><rect x="912" y="293" width="120" height="44" rx="22" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".75"/><circle cx="932" cy="315" r="4" fill="#22D3EE"/><text x="980" y="321" text-anchor="middle">Skills</text></g><g class="n" style="animation-delay:-2.8s"><rect x="663" y="359" width="168" height="44" rx="22" fill="#0F172A" stroke="#A78BFA" stroke-opacity=".75"/><circle cx="683" cy="381" r="4" fill="#A78BFA"/><text x="755" y="387" text-anchor="middle">Automation</text></g><g class="n" style="animation-delay:-3.5s"><rect x="375" y="359" width="156" height="44" rx="22" fill="#0F172A" stroke="#22C55E" stroke-opacity=".75"/><circle cx="395" cy="381" r="4" fill="#22C55E"/><text x="461" y="387" text-anchor="middle">Marketing</text></g><g class="n" style="animation-delay:-4.2s"><rect x="186" y="293" width="84" height="44" rx="22" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".75"/><circle cx="206" cy="315" r="4" fill="#22D3EE"/><text x="236" y="321" text-anchor="middle">SAI</text></g><g class="n" style="animation-delay:-4.9s"><rect x="129" y="192" width="96" height="44" rx="22" fill="#0F172A" stroke="#A78BFA" stroke-opacity=".75"/><circle cx="149" cy="214" r="4" fill="#A78BFA"/><text x="185" y="220" text-anchor="middle">Code</text></g><g class="n" style="animation-delay:-5.6s"><rect x="264" y="103" width="120" height="44" rx="22" fill="#0F172A" stroke="#64748B" stroke-opacity=".75"/><circle cx="284" cy="125" r="4" fill="#64748B"/><text x="332" y="131" text-anchor="middle">&amp; more</text></g>
+  </g>
+  <rect x="1" y="1" width="1198" height="478" rx="21" fill="none" stroke="#1E293B" stroke-width="2"/>
+</svg>

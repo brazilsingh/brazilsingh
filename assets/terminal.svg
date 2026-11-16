@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t">
+  <title id="t">whoami: Brazil Singh. Focus: agents, MCP servers, prompts, skills, automations, growth. Also Director at the OpenStreetMap Foundation and CSE student at Eastern University.</title>
+  <defs><clipPath id="card"><rect width="1200" height="380" rx="18"/></clipPath>
+  <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#22C55E"/></linearGradient></defs>
+  <style>
+    text { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace; font-size: 22px; white-space: pre; }
+    .ty { clip-path: inset(0 100% 0 0); }
+    @keyframes type { to { clip-path: inset(0 0 0 0); } }
+    .caret { opacity: 0; animation: show 0s 8.33s forwards, blink 1s steps(1) 8.33s infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    .glow { animation: slide 4s linear infinite; }
+    @keyframes slide { from { transform: translateX(-400px); } to { transform: translateX(1200px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .ty { clip-path: none; } .caret { opacity: 1; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="380" fill="#0B1120"/>
+    <rect width="1200" height="52" fill="#111827"/>
+    <rect class="glow" y="50" width="400" height="2" fill="url(#bar)"/>
+    <circle cx="32" cy="26" r="7" fill="#EF4444"/><circle cx="56" cy="26" r="7" fill="#F59E0B"/><circle cx="80" cy="26" r="7" fill="#22C55E"/>
+    <text x="600" y="33" text-anchor="middle" style="font-size:16px" fill="#64748B">~/brazil  —  zsh</text>
+    <text x="40" y="110" class="ty" style="animation:type 0.35s steps(8) 0.40s forwards" fill="#F8FAFC"><tspan fill="#22C55E">$ </tspan>whoami</text><text x="40" y="146" class="ty" style="animation:type 1.09s steps(41) 1.00s forwards" fill="#E2E8F0"><tspan fill="#475569">  </tspan>brazil singh, i build things that think</text><text x="40" y="182" class="ty" style="animation:type 0.35s steps(12) 2.59s forwards" fill="#F8FAFC"><tspan fill="#22C55E">$ </tspan>ls ./focus</text><text x="40" y="218" class="ty" style="animation:type 1.76s steps(65) 3.19s forwards" fill="#22D3EE"><tspan fill="#475569">  </tspan>agents/  mcp-servers/  prompts/  skills/  automations/  growth/</text><text x="40" y="254" class="ty" style="animation:type 0.39s steps(16) 5.46s forwards" fill="#F8FAFC"><tspan fill="#22C55E">$ </tspan>cat ./also.txt</text><text x="40" y="290" class="ty" style="animation:type 1.74s steps(64) 6.10s forwards" fill="#A78BFA"><tspan fill="#475569">  </tspan>director @ openstreetmap foundation · cse @ eastern university</text>
+    <text x="40" y="326" fill="#22C55E">$ </text>
+    <rect class="caret" x="68" y="306" width="12" height="24" fill="#22D3EE"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="378" rx="17" fill="none" stroke="#1E293B" stroke-width="2"/>
+</svg>
