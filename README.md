@@ -22,7 +22,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brazilsingh&show_icons=true&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&ring_color=22C55E" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=brazilsingh&hide_border=true&background=0B1120&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&stroke=1E293B" height="165" alt="GitHub streak" />
 </p>
 
